@@ -1,0 +1,7 @@
+E:\Estudo\Leandro\Aulas\lemosinfotec.AulasLogicas\Matrizes\bin\Debug\Matrizes.exe.config
+E:\Estudo\Leandro\Aulas\lemosinfotec.AulasLogicas\Matrizes\bin\Debug\Matrizes.exe
+E:\Estudo\Leandro\Aulas\lemosinfotec.AulasLogicas\Matrizes\bin\Debug\Matrizes.pdb
+E:\Estudo\Leandro\Aulas\lemosinfotec.AulasLogicas\Matrizes\obj\Debug\Matrizes.csprojAssemblyReference.cache
+E:\Estudo\Leandro\Aulas\lemosinfotec.AulasLogicas\Matrizes\obj\Debug\Matrizes.csproj.CoreCompileInputs.cache
+E:\Estudo\Leandro\Aulas\lemosinfotec.AulasLogicas\Matrizes\obj\Debug\Matrizes.exe
+E:\Estudo\Leandro\Aulas\lemosinfotec.AulasLogicas\Matrizes\obj\Debug\Matrizes.pdb

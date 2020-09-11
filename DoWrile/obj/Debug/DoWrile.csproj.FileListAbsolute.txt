@@ -1,0 +1,7 @@
+E:\Estudo\Leandro\Aulas\lemosinfotec.AulasLogicas\DoWrile\bin\Debug\DoWrile.exe.config
+E:\Estudo\Leandro\Aulas\lemosinfotec.AulasLogicas\DoWrile\bin\Debug\DoWrile.exe
+E:\Estudo\Leandro\Aulas\lemosinfotec.AulasLogicas\DoWrile\bin\Debug\DoWrile.pdb
+E:\Estudo\Leandro\Aulas\lemosinfotec.AulasLogicas\DoWrile\obj\Debug\DoWrile.csprojAssemblyReference.cache
+E:\Estudo\Leandro\Aulas\lemosinfotec.AulasLogicas\DoWrile\obj\Debug\DoWrile.csproj.CoreCompileInputs.cache
+E:\Estudo\Leandro\Aulas\lemosinfotec.AulasLogicas\DoWrile\obj\Debug\DoWrile.exe
+E:\Estudo\Leandro\Aulas\lemosinfotec.AulasLogicas\DoWrile\obj\Debug\DoWrile.pdb

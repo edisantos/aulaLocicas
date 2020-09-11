@@ -1,0 +1,7 @@
+E:\Estudo\Leandro\Aulas\lemosinfotec.AulasLogicas\wrile\bin\Debug\wrile.exe.config
+E:\Estudo\Leandro\Aulas\lemosinfotec.AulasLogicas\wrile\bin\Debug\wrile.exe
+E:\Estudo\Leandro\Aulas\lemosinfotec.AulasLogicas\wrile\bin\Debug\wrile.pdb
+E:\Estudo\Leandro\Aulas\lemosinfotec.AulasLogicas\wrile\obj\Debug\wrile.csproj.CoreCompileInputs.cache
+E:\Estudo\Leandro\Aulas\lemosinfotec.AulasLogicas\wrile\obj\Debug\wrile.exe
+E:\Estudo\Leandro\Aulas\lemosinfotec.AulasLogicas\wrile\obj\Debug\wrile.pdb
+E:\Estudo\Leandro\Aulas\lemosinfotec.AulasLogicas\wrile\obj\Debug\wrile.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+E:\Estudo\Leandro\Aulas\lemosinfotec.AulasLogicas\FOR\bin\Debug\FOR.exe.config
+E:\Estudo\Leandro\Aulas\lemosinfotec.AulasLogicas\FOR\bin\Debug\FOR.exe
+E:\Estudo\Leandro\Aulas\lemosinfotec.AulasLogicas\FOR\bin\Debug\FOR.pdb
+E:\Estudo\Leandro\Aulas\lemosinfotec.AulasLogicas\FOR\obj\Debug\FOR.csprojAssemblyReference.cache
+E:\Estudo\Leandro\Aulas\lemosinfotec.AulasLogicas\FOR\obj\Debug\FOR.csproj.CoreCompileInputs.cache
+E:\Estudo\Leandro\Aulas\lemosinfotec.AulasLogicas\FOR\obj\Debug\FOR.exe
+E:\Estudo\Leandro\Aulas\lemosinfotec.AulasLogicas\FOR\obj\Debug\FOR.pdb

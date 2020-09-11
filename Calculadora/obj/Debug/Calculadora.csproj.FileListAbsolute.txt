@@ -1,0 +1,7 @@
+E:\Estudo\Leandro\Aulas\lemosinfotec.AulasLogicas\Calculadora\bin\Debug\Calculadora.exe.config
+E:\Estudo\Leandro\Aulas\lemosinfotec.AulasLogicas\Calculadora\bin\Debug\Calculadora.exe
+E:\Estudo\Leandro\Aulas\lemosinfotec.AulasLogicas\Calculadora\bin\Debug\Calculadora.pdb
+E:\Estudo\Leandro\Aulas\lemosinfotec.AulasLogicas\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+E:\Estudo\Leandro\Aulas\lemosinfotec.AulasLogicas\Calculadora\obj\Debug\Calculadora.exe
+E:\Estudo\Leandro\Aulas\lemosinfotec.AulasLogicas\Calculadora\obj\Debug\Calculadora.pdb
+E:\Estudo\Leandro\Aulas\lemosinfotec.AulasLogicas\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache

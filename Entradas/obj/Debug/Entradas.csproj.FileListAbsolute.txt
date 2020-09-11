@@ -1,0 +1,7 @@
+E:\Estudo\Leandro\Aulas\lemosinfotec.AulasLogicas\Entradas\bin\Debug\Entradas.exe.config
+E:\Estudo\Leandro\Aulas\lemosinfotec.AulasLogicas\Entradas\bin\Debug\Entradas.exe
+E:\Estudo\Leandro\Aulas\lemosinfotec.AulasLogicas\Entradas\bin\Debug\Entradas.pdb
+E:\Estudo\Leandro\Aulas\lemosinfotec.AulasLogicas\Entradas\obj\Debug\Entradas.csprojAssemblyReference.cache
+E:\Estudo\Leandro\Aulas\lemosinfotec.AulasLogicas\Entradas\obj\Debug\Entradas.csproj.CoreCompileInputs.cache
+E:\Estudo\Leandro\Aulas\lemosinfotec.AulasLogicas\Entradas\obj\Debug\Entradas.exe
+E:\Estudo\Leandro\Aulas\lemosinfotec.AulasLogicas\Entradas\obj\Debug\Entradas.pdb

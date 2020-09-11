@@ -1,0 +1,6 @@
+E:\Estudo\Leandro\Aulas\lemosinfotec.AulasLogicas\MMC\obj\Debug\IMC.csproj.CoreCompileInputs.cache
+E:\Estudo\Leandro\Aulas\lemosinfotec.AulasLogicas\MMC\bin\Debug\MMC.exe.config
+E:\Estudo\Leandro\Aulas\lemosinfotec.AulasLogicas\MMC\bin\Debug\MMC.exe
+E:\Estudo\Leandro\Aulas\lemosinfotec.AulasLogicas\MMC\bin\Debug\MMC.pdb
+E:\Estudo\Leandro\Aulas\lemosinfotec.AulasLogicas\MMC\obj\Debug\MMC.exe
+E:\Estudo\Leandro\Aulas\lemosinfotec.AulasLogicas\MMC\obj\Debug\MMC.pdb

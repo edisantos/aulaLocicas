@@ -1,0 +1,7 @@
+E:\Estudo\Leandro\Aulas\lemosinfotec.AulasLogicas\OlaMundo\bin\Debug\OlaMundo.exe.config
+E:\Estudo\Leandro\Aulas\lemosinfotec.AulasLogicas\OlaMundo\bin\Debug\OlaMundo.exe
+E:\Estudo\Leandro\Aulas\lemosinfotec.AulasLogicas\OlaMundo\bin\Debug\OlaMundo.pdb
+E:\Estudo\Leandro\Aulas\lemosinfotec.AulasLogicas\OlaMundo\obj\Debug\OlaMundo.csprojAssemblyReference.cache
+E:\Estudo\Leandro\Aulas\lemosinfotec.AulasLogicas\OlaMundo\obj\Debug\OlaMundo.csproj.CoreCompileInputs.cache
+E:\Estudo\Leandro\Aulas\lemosinfotec.AulasLogicas\OlaMundo\obj\Debug\OlaMundo.exe
+E:\Estudo\Leandro\Aulas\lemosinfotec.AulasLogicas\OlaMundo\obj\Debug\OlaMundo.pdb

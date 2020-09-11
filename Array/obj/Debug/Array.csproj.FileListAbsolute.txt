@@ -1,0 +1,7 @@
+E:\Estudo\Leandro\Aulas\lemosinfotec.AulasLogicas\Array\bin\Debug\Array.exe.config
+E:\Estudo\Leandro\Aulas\lemosinfotec.AulasLogicas\Array\bin\Debug\Array.exe
+E:\Estudo\Leandro\Aulas\lemosinfotec.AulasLogicas\Array\bin\Debug\Array.pdb
+E:\Estudo\Leandro\Aulas\lemosinfotec.AulasLogicas\Array\obj\Debug\Array.csprojAssemblyReference.cache
+E:\Estudo\Leandro\Aulas\lemosinfotec.AulasLogicas\Array\obj\Debug\Array.csproj.CoreCompileInputs.cache
+E:\Estudo\Leandro\Aulas\lemosinfotec.AulasLogicas\Array\obj\Debug\Array.exe
+E:\Estudo\Leandro\Aulas\lemosinfotec.AulasLogicas\Array\obj\Debug\Array.pdb
